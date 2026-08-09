@@ -112,7 +112,8 @@ window.TRIP_DATA = {
             amount: 412.96,
             confirmation: "94290711",
             city: "Portland",
-            nights: 5
+            nights: 5,
+            url: "https://www.marriott.com/reservation/upcomingReservation.mi?confirmationNumber=94290711&tripId=94290711&propertyId=pdxtx"
           },
           {
             name: "Hotel Blake, an Ascend Collection Hotel (Bluegreen Vacations)",
